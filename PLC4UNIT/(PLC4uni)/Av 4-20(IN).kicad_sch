@@ -701,7 +701,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "241bf940-968f-4a52-b810-c5e5c7cbd274")
-		(property "Reference" "R23"
+		(property "Reference" "R22"
 			(at 130.81 101.5999 0)
 			(effects
 				(font
@@ -754,8 +754,8 @@
 		)
 		(instances
 			(project "(PLC4uni)"
-				(path "/51ba3ded-ff5f-4081-8ec7-5485260143c5/2a2f8680-bcd1-449d-9473-274db87076f5"
-					(reference "R23")
+				(path "/51ba3ded-ff5f-4081-8ec7-5485260143c5/901f14ff-007b-4496-b456-fb07dd7c1be1"
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -771,7 +771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c4650e0-9eb6-4ecc-897c-2189b2fd7075")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR060"
 			(at 128.27 127 0)
 			(effects
 				(font
@@ -820,8 +820,8 @@
 		)
 		(instances
 			(project "(PLC4uni)"
-				(path "/51ba3ded-ff5f-4081-8ec7-5485260143c5/2a2f8680-bcd1-449d-9473-274db87076f5"
-					(reference "#PWR061")
+				(path "/51ba3ded-ff5f-4081-8ec7-5485260143c5/901f14ff-007b-4496-b456-fb07dd7c1be1"
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -837,7 +837,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b07d9ac7-7222-4902-8506-3c6a5779a915")
-		(property "Reference" "D13"
+		(property "Reference" "D5"
 			(at 153.67 111.7599 90)
 			(effects
 				(font
@@ -890,8 +890,8 @@
 		)
 		(instances
 			(project "(PLC4uni)"
-				(path "/51ba3ded-ff5f-4081-8ec7-5485260143c5/2a2f8680-bcd1-449d-9473-274db87076f5"
-					(reference "D13")
+				(path "/51ba3ded-ff5f-4081-8ec7-5485260143c5/901f14ff-007b-4496-b456-fb07dd7c1be1"
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -907,7 +907,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c33bfa7b-4383-4d46-a754-7a3ff49e2ffe")
-		(property "Reference" "C10"
+		(property "Reference" "C9"
 			(at 142.24 113.0299 0)
 			(effects
 				(font
@@ -960,8 +960,8 @@
 		)
 		(instances
 			(project "(PLC4uni)"
-				(path "/51ba3ded-ff5f-4081-8ec7-5485260143c5/2a2f8680-bcd1-449d-9473-274db87076f5"
-					(reference "C10")
+				(path "/51ba3ded-ff5f-4081-8ec7-5485260143c5/901f14ff-007b-4496-b456-fb07dd7c1be1"
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -977,7 +977,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbee5150-c392-4856-a309-1ee56d38af9f")
-		(property "Reference" "R25"
+		(property "Reference" "R24"
 			(at 130.81 113.0299 0)
 			(effects
 				(font
@@ -1030,8 +1030,8 @@
 		)
 		(instances
 			(project "(PLC4uni)"
-				(path "/51ba3ded-ff5f-4081-8ec7-5485260143c5/2a2f8680-bcd1-449d-9473-274db87076f5"
-					(reference "R25")
+				(path "/51ba3ded-ff5f-4081-8ec7-5485260143c5/901f14ff-007b-4496-b456-fb07dd7c1be1"
+					(reference "R24")
 					(unit 1)
 				)
 			)

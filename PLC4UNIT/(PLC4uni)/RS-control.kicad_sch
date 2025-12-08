@@ -876,6 +876,32 @@
 		)
 		(uuid "2a12fb42-2cb1-4e7a-a740-8294e9725f31")
 	)
+	(hierarchical_label "Din"
+		(shape input)
+		(at 72.39 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "52872f47-7699-4b6b-b521-6f3638ea6d19")
+	)
+	(hierarchical_label "Con"
+		(shape input)
+		(at 73.66 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "5f8c10f4-7d17-4f1b-b674-e6d882f2b1fc")
+	)
 	(hierarchical_label "RS485-A"
 		(shape bidirectional)
 		(at 127 116.84 0)
@@ -888,6 +914,19 @@
 			(justify left)
 		)
 		(uuid "810cbecd-afee-4e8a-90d6-ed15160f8e49")
+	)
+	(hierarchical_label "Dout"
+		(shape output)
+		(at 72.39 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "85a8f69b-b753-4250-8203-fad9317416b8")
 	)
 	(symbol
 		(lib_id "GP8211S-TC50:GNDPWR")
