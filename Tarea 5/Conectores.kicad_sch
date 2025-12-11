@@ -1,0 +1,338 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "5aefef8a-5286-4d75-91de-394ef31752ad")
+	(paper "A4")
+	(lib_symbols
+		(symbol "e-radionica.com schematics:HEADER_MALE_6X1"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "K"
+				(at -0.635 10.16 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+				)
+			)
+			(property "Value" "HEADER_MALE_6X1"
+				(at 1.27 -7.62 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+				)
+			)
+			(property "Footprint" "e-radionica.com footprinti:HEADER_MALE_6X1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "HEADER_MALE_6X1_0_1"
+				(circle
+					(center 0 7.62)
+					(radius 0.635)
+					(stroke
+						(width 0.0006)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 5.08)
+					(radius 0.635)
+					(stroke
+						(width 0.0006)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 2.54)
+					(radius 0.635)
+					(stroke
+						(width 0.0006)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.635)
+					(stroke
+						(width 0.0006)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -2.54)
+					(radius 0.635)
+					(stroke
+						(width 0.0006)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -5.08)
+					(radius 0.635)
+					(stroke
+						(width 0.0006)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 1.27 -6.35)
+					(end -1.27 8.89)
+					(stroke
+						(width 0.001)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "HEADER_MALE_6X1_1_1"
+				(pin passive line
+					(at 0 7.62 180)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 0.991 0.991)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 0.991 0.991)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 5.08 180)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 0.991 0.991)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 0.991 0.991)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 2.54 180)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 0.991 0.991)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 0.991 0.991)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 0 180)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 0.991 0.991)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 0.991 0.991)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 180)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 0.991 0.991)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0.991 0.991)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 180)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 0.991 0.991)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0.991 0.991)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(symbol
+		(lib_id "e-radionica.com schematics:HEADER_MALE_6X1")
+		(at 109.22 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b197b54c-8e6a-468b-80ba-f711c5b8b496")
+		(property "Reference" "K2"
+			(at 109.22 64.77 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Value" "HEADER_MALE_6X1"
+			(at 109.22 82.55 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "e-radionica.com footprinti:HEADER_MALE_6X1"
+			(at 109.22 74.93 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 74.93 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c1a321c7-8d55-42ac-8cb7-eaf0a1a8f5b8")
+		)
+		(pin "2"
+			(uuid "87788b3c-c78a-4505-8e39-f2bc8c970943")
+		)
+		(pin "3"
+			(uuid "85a2430e-124d-4c27-acb8-566f8733b3b8")
+		)
+		(pin "4"
+			(uuid "6cb7a624-ac00-499e-8156-c42189c9ee8e")
+		)
+		(pin "5"
+			(uuid "6845c474-7a59-4b71-9818-a25657a30ded")
+		)
+		(pin "6"
+			(uuid "75c79b14-0a4b-4d5b-9502-a7ebe145a293")
+		)
+		(instances
+			(project "Conectores USB"
+				(path "/5aefef8a-5286-4d75-91de-394ef31752ad"
+					(reference "K2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
